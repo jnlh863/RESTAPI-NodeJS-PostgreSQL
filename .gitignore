@@ -1,0 +1,4 @@
+node_modules
+.env
+PostgreSQL.sql
+index.http
